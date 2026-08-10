@@ -1,5 +1,5 @@
 class Solution {
-bool canPlace(const vector<int>& position, int m, int force) {
+bool isPossible(const vector<int>& position, int m, int force) {
         int count = 1;
         int last = position[0];
         for (int i = 1; i < position.size(); ++i) {
@@ -21,7 +21,7 @@ public:
         
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (canPlace(position, m, mid)) {
+            if (isPossible(position, m, mid)) {
                 ans = mid;
                 left = mid + 1;
             } else {
