@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/rishumour/Leetcode-Daily/tree/master/1675-magnetic-force-between-two-balls) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/rishumour/Leetcode-Daily/tree/master/1675-magnetic-force-between-two-balls) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -35,7 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
