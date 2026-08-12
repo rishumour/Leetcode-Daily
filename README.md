@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/rishumour/Leetcode-Daily/tree/master/1675-magnetic-force-between-two-balls) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishumour/Leetcode-Daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -37,7 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishumour/Leetcode-Daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
 | ------- |
 | [0601-human-traffic-of-stadium](https://github.com/rishumour/Leetcode-Daily/tree/master/0601-human-traffic-of-stadium) |
+## Sliding Window
+|  |
+| ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishumour/Leetcode-Daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
