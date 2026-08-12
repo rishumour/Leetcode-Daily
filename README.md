@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -38,7 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/rishumour/Leetcode-Daily/tree/master/1617-stone-game-iv) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishumour/Leetcode-Daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
