@@ -8,6 +8,7 @@
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
