@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
