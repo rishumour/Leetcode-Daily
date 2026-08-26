@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
