@@ -101,4 +101,8 @@
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [2057-count-salary-categories](https://github.com/rishumour/Leetcode-Daily/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
