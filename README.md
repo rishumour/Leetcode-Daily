@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -114,4 +115,12 @@
 | [3898-seasonal-sales-analysis](https://github.com/rishumour/Leetcode-Daily/tree/master/3898-seasonal-sales-analysis) |
 | [3921-find-consistently-improving-employees](https://github.com/rishumour/Leetcode-Daily/tree/master/3921-find-consistently-improving-employees) |
 | [3943-find-overbooked-employees](https://github.com/rishumour/Leetcode-Daily/tree/master/3943-find-overbooked-employees) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
