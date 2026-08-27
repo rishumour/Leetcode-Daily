@@ -110,4 +110,5 @@
 | [3767-find-students-who-improved](https://github.com/rishumour/Leetcode-Daily/tree/master/3767-find-students-who-improved) |
 | [3816-dna-pattern-recognition](https://github.com/rishumour/Leetcode-Daily/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/rishumour/Leetcode-Daily/tree/master/3848-analyze-subscription-conversion) |
+| [3865-find-product-recommendation-pairs](https://github.com/rishumour/Leetcode-Daily/tree/master/3865-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
