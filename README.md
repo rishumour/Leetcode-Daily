@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishumour/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -119,8 +120,10 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
