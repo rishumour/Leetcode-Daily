@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 ## Hash Table
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishumour/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
