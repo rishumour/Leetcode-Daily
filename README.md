@@ -107,4 +107,5 @@
 | [2057-count-salary-categories](https://github.com/rishumour/Leetcode-Daily/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/rishumour/Leetcode-Daily/tree/master/2087-confirmation-rate) |
 | [3530-odd-and-even-transactions](https://github.com/rishumour/Leetcode-Daily/tree/master/3530-odd-and-even-transactions) |
+| [3767-find-students-who-improved](https://github.com/rishumour/Leetcode-Daily/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
