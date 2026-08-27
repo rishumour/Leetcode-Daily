@@ -108,4 +108,5 @@
 | [2087-confirmation-rate](https://github.com/rishumour/Leetcode-Daily/tree/master/2087-confirmation-rate) |
 | [3530-odd-and-even-transactions](https://github.com/rishumour/Leetcode-Daily/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/rishumour/Leetcode-Daily/tree/master/3767-find-students-who-improved) |
+| [3816-dna-pattern-recognition](https://github.com/rishumour/Leetcode-Daily/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
