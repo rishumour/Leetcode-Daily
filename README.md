@@ -113,4 +113,5 @@
 | [3865-find-product-recommendation-pairs](https://github.com/rishumour/Leetcode-Daily/tree/master/3865-find-product-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/rishumour/Leetcode-Daily/tree/master/3898-seasonal-sales-analysis) |
 | [3921-find-consistently-improving-employees](https://github.com/rishumour/Leetcode-Daily/tree/master/3921-find-consistently-improving-employees) |
+| [3943-find-overbooked-employees](https://github.com/rishumour/Leetcode-Daily/tree/master/3943-find-overbooked-employees) |
 <!---LeetCode Topics End-->
