@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishumour/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rishumour/Leetcode-Daily/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Backtracking
 |  |
 | ------- |
