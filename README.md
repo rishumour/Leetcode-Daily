@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
@@ -153,4 +154,12 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
