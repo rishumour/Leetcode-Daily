@@ -16,6 +16,7 @@
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -60,6 +61,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
