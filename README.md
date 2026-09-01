@@ -86,6 +86,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
+| [0812-rotate-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0812-rotate-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
