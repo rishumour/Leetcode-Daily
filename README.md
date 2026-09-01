@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/rishumour/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
