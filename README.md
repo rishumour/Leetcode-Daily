@@ -80,6 +80,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
