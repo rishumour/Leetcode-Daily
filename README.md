@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -108,6 +110,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
