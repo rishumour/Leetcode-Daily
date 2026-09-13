@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -210,6 +211,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
