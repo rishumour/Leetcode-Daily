@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
