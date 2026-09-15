@@ -41,6 +41,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -114,6 +116,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -180,6 +183,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
