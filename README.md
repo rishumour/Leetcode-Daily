@@ -55,6 +55,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/rishumour/Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -121,6 +123,7 @@
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -201,6 +204,7 @@
 | [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
