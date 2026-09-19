@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/rishumour/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
