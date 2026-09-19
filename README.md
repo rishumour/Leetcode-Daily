@@ -86,6 +86,7 @@
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2383-add-two-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/rishumour/Leetcode-Daily/tree/master/2556-convert-the-temperature) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/rishumour/Leetcode-Daily/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/rishumour/Leetcode-Daily/tree/master/4245-count-commas-in-range) |
