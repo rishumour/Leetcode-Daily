@@ -135,6 +135,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3811-reverse-degree-of-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Game Theory
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
+| [3811-reverse-degree-of-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3811-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
