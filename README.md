@@ -20,6 +20,7 @@
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -59,6 +60,7 @@
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/rishumour/Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
@@ -110,6 +112,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
@@ -171,6 +175,7 @@
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Counting
