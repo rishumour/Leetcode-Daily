@@ -21,6 +21,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -61,6 +62,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rishumour/Leetcode-Daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/rishumour/Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
@@ -139,6 +141,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rishumour/Leetcode-Daily/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishumour/Leetcode-Daily/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
