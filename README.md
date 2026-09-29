@@ -89,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/rishumour/Leetcode-Daily/tree/master/0319-bulb-switcher) |
 | [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rishumour/Leetcode-Daily/tree/master/1501-circle-and-rectangle-overlapping) |
