@@ -142,6 +142,7 @@
 | [0481-magical-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0481-magical-string) |
 | [0812-rotate-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
