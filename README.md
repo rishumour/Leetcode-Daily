@@ -34,6 +34,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3840-find-x-value-of-array-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,12 +83,14 @@
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -124,6 +128,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -227,6 +232,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -239,6 +245,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +297,7 @@
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
