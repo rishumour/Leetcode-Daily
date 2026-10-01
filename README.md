@@ -133,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/rishumour/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
@@ -247,6 +248,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -290,6 +292,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
