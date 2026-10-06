@@ -13,6 +13,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
+| [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -103,6 +105,7 @@
 | [0009-palindrome-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/rishumour/Leetcode-Daily/tree/master/0319-bulb-switcher) |
 | [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
+| [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rishumour/Leetcode-Daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
+| [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
