@@ -92,6 +92,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -102,6 +103,7 @@
 | [0009-palindrome-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/rishumour/Leetcode-Daily/tree/master/0319-bulb-switcher) |
 | [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rishumour/Leetcode-Daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
