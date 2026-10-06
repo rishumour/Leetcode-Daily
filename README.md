@@ -17,6 +17,7 @@
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
@@ -124,6 +125,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
