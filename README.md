@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishumour/Leetcode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
@@ -154,6 +155,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishumour/Leetcode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0977-distinct-subsequences-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -266,6 +268,7 @@
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishumour/Leetcode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -314,6 +317,7 @@
 | [0020-valid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishumour/Leetcode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishumour/Leetcode-Daily/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
