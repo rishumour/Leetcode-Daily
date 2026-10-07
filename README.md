@@ -157,6 +157,7 @@
 | [0115-distinct-subsequences](https://github.com/rishumour/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishumour/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/rishumour/Leetcode-Daily/tree/master/0383-ransom-note) |
 | [0481-magical-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/rishumour/Leetcode-Daily/tree/master/0678-valid-parenthesis-string) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
