@@ -39,6 +39,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
@@ -61,6 +62,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
+| [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
 ## Zero-Sum Game
