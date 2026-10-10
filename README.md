@@ -28,6 +28,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -94,6 +95,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishumour/Leetcode-Daily/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2039-sum-game](https://github.com/rishumour/Leetcode-Daily/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -143,6 +145,7 @@
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -271,6 +274,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/rishumour/Leetcode-Daily/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -383,4 +387,8 @@
 |  |
 | ------- |
 | [3840-find-x-value-of-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3840-find-x-value-of-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
