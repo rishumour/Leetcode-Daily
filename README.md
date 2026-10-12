@@ -29,6 +29,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rishumour/Leetcode-Daily/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -239,6 +240,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
