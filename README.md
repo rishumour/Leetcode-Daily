@@ -53,6 +53,7 @@
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 | [4421-minimum-queen-moves-to-reach-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4421-minimum-queen-moves-to-reach-target) |
+| [4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
+| [4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
 | [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4422-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
