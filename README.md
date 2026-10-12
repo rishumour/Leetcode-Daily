@@ -48,6 +48,7 @@
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4398-transform-array-using-pair-operations](https://github.com/rishumour/Leetcode-Daily/tree/master/4398-transform-array-using-pair-operations) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
@@ -90,6 +91,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
