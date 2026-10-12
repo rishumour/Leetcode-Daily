@@ -48,6 +48,7 @@
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
+| [4398-transform-array-using-pair-operations](https://github.com/rishumour/Leetcode-Daily/tree/master/4398-transform-array-using-pair-operations) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 | [4421-minimum-queen-moves-to-reach-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4421-minimum-queen-moves-to-reach-target) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rishumour/Leetcode-Daily/tree/master/0319-bulb-switcher) |
+| [4398-transform-array-using-pair-operations](https://github.com/rishumour/Leetcode-Daily/tree/master/4398-transform-array-using-pair-operations) |
 ## Segment Tree
 |  |
 | ------- |
