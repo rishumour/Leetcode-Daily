@@ -50,6 +50,7 @@
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
+| [4421-minimum-queen-moves-to-reach-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [4248-count-commas-in-range-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4421-minimum-queen-moves-to-reach-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
