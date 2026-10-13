@@ -42,6 +42,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
@@ -110,6 +111,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Linked List
