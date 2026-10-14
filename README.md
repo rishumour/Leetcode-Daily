@@ -112,6 +112,7 @@
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/rishumour/Leetcode-Daily/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3840-find-x-value-of-array-ii) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/rishumour/Leetcode-Daily/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/rishumour/Leetcode-Daily/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/rishumour/Leetcode-Daily/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
