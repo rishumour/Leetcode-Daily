@@ -40,6 +40,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3840-find-x-value-of-array-ii) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
@@ -92,6 +93,7 @@
 | [3705-find-the-largest-almost-missing-integer](https://github.com/rishumour/Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -299,6 +301,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/rishumour/Leetcode-Daily/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
