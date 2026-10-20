@@ -49,6 +49,7 @@
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4285-smallest-stable-index-ii) |
@@ -152,6 +153,7 @@
 | [4245-count-commas-in-range](https://github.com/rishumour/Leetcode-Daily/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4421-minimum-queen-moves-to-reach-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Binary Search
@@ -267,6 +269,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rishumour/Leetcode-Daily/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4257-sum-of-sortable-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/4257-sum-of-sortable-integers) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Database
 |  |
@@ -309,6 +312,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/4257-sum-of-sortable-integers) |
 | [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Linked List
