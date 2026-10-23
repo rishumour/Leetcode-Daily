@@ -44,6 +44,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/rishumour/Leetcode-Daily/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -129,6 +130,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishumour/Leetcode-Daily/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/rishumour/Leetcode-Daily/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
 ## Math
 |  |
