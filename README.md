@@ -17,6 +17,7 @@
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/rishumour/Leetcode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rishumour/Leetcode-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
@@ -346,6 +347,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishumour/Leetcode-Daily/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -356,6 +358,7 @@
 | [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/0898-transpose-matrix) |
+| [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -367,12 +370,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rishumour/Leetcode-Daily/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0301-remove-invalid-parentheses) |
+| [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
