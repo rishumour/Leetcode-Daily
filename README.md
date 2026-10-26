@@ -39,6 +39,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/rishumour/Leetcode-Daily/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/rishumour/Leetcode-Daily/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/3799-unique-3-digit-even-numbers) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3840-find-x-value-of-array-ii) |
@@ -351,6 +352,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishumour/Leetcode-Daily/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -361,6 +363,7 @@
 | [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -373,12 +376,14 @@
 | [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rishumour/Leetcode-Daily/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rishumour/Leetcode-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishumour/Leetcode-Daily/tree/master/2793-count-the-number-of-complete-components) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
