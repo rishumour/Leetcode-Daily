@@ -51,6 +51,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
 | [4257-sum-of-sortable-integers](https://github.com/rishumour/Leetcode-Daily/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -80,6 +81,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/3831-find-x-value-of-array-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/rishumour/Leetcode-Daily/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishumour/Leetcode-Daily/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/rishumour/Leetcode-Daily/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/rishumour/Leetcode-Daily/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
