@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/rishumour/Leetcode-Daily/tree/master/0018-4sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishumour/Leetcode-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishumour/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishumour/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0864-image-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0864-image-overlap) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rishumour/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/rishumour/Leetcode-Daily/tree/master/0319-bulb-switcher) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishumour/Leetcode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
