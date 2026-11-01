@@ -51,6 +51,7 @@
 | [4028-lexicographically-largest-power-array](https://github.com/rishumour/Leetcode-Daily/tree/master/4028-lexicographically-largest-power-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/rishumour/Leetcode-Daily/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rishumour/Leetcode-Daily/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/rishumour/Leetcode-Daily/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4196-maximum-pulse-value-after-one-subarray-rotation](https://github.com/rishumour/Leetcode-Daily/tree/master/4196-maximum-pulse-value-after-one-subarray-rotation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishumour/Leetcode-Daily/tree/master/4256-construct-uniform-parity-array-i) |
