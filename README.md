@@ -21,6 +21,7 @@
 | [1380-number-of-closed-islands](https://github.com/rishumour/Leetcode-Daily/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishumour/Leetcode-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishumour/Leetcode-Daily/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1487-cinema-seat-allocation](https://github.com/rishumour/Leetcode-Daily/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishumour/Leetcode-Daily/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rishumour/Leetcode-Daily/tree/master/1646-kth-missing-positive-number) |
@@ -149,6 +150,7 @@
 | [0866-rectangle-overlap](https://github.com/rishumour/Leetcode-Daily/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/rishumour/Leetcode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rishumour/Leetcode-Daily/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishumour/Leetcode-Daily/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -247,6 +249,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishumour/Leetcode-Daily/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/rishumour/Leetcode-Daily/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/rishumour/Leetcode-Daily/tree/master/2002-stone-game-viii) |
@@ -477,4 +480,12 @@
 |  |
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/rishumour/Leetcode-Daily/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishumour/Leetcode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
